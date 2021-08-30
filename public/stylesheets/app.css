@@ -1,0 +1,28 @@
+
+/* Show Page
+ @media screen and (min-width: 992px) {
+    .card-img-top {
+      width: 100%;
+      height: 200px !important;
+      object-fit: cover;
+  }} */
+
+#cluster-map{
+    width: 100%;
+    height: 300px;
+}
+
+#map{
+    width: 100%;
+    height: 200px;
+}
+
+.mapboxgl-popup-content{
+    padding: 0.7em;
+}
+
+
+.showMap{
+    font-weight: 550;
+    margin-bottom: 0;
+}
